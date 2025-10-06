@@ -1,6 +1,6 @@
 # AArch64_macos_CSPRNG
 An Arc4Random based prng written entirely in ARM64 on MacOS. After you can run the precompiled version from the bin directory with the command<br>
-`./random _desired bytes length_`
+`./random (number)`
 
 
 ## Compilation
